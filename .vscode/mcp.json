@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sophie-Bluel Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/victoramo/Sophie-Bluel"
+    }
+  }
+}
